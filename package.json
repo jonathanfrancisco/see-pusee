@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.1.1",
+    "ml5": "^0.3.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-html5-camera-photo": "^1.4.3",
+    "react-loader-spinner": "^2.3.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
