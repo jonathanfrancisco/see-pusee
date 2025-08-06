@@ -9,7 +9,7 @@
     "react-dom": "^16.8.6",
     "react-html5-camera-photo": "^1.4.3",
     "react-loader-spinner": "^2.3.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
